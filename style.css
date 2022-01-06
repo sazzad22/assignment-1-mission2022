@@ -4,10 +4,21 @@ h1{
     font-family: 'Yeseva One', cursive;
     font-weight: 400;
     color:#333333;
+    
 }
 p{
     font-family: 'Poppins', sans-serif;
     color: #3E3E3E;
+    font-size: 16px;
+}
+h2{
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Poppins', sans-serif;
+}
+h3{
+    font-size: 24px;
+    font-family: 'Poppins', sans-serif;
 }
 .orange-text{
     color:#FFAD5A;
@@ -23,4 +34,25 @@ p{
 }
 .half-width img{
     width: 100%;
+}
+.mission-card{
+    background-color: #4F9DA61A;
+    
+}
+.vission-card{
+    background-color: #FF59591A;
+    
+}
+.goals-card{
+    background-color: #FFF4D6;
+    
+}
+.half-width-2nd-section{
+    width: 50%;
+    margin: 10px 40px 200px;
+    border-radius: 20px;
+    padding: 5px 10px;
+}
+.half-width-2nd-section img{
+    width: 35%;
 }
